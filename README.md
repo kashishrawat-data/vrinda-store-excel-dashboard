@@ -1,7 +1,7 @@
 # 📊 Vrinda Store Sales Analysis – Excel Dashboard Project
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](vrinda-dashboard.png)
 
 ---
 
