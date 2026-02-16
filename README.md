@@ -50,6 +50,28 @@ The objective was to build an interactive dashboard that helps identify sales tr
 
 ---
 
+## 📊 Key Business Insights
+
+- Female customers contribute approximately 65% of total purchases, significantly higher than male customers.
+
+- Maharashtra, Karnataka, and Uttar Pradesh are the top three revenue-generating states, contributing around 35% of overall sales.
+
+- The 30–49 years age group is the highest contributing segment, accounting for nearly 50% of total revenue.
+
+- Amazon, Flipkart, and Myntra are the dominant sales channels, contributing approximately 80% of total orders.
+
+---
+
+## 🎯 Business Recommendation
+
+To improve Vrinda Store sales:
+
+- Focus marketing campaigns on women aged 30–49 years.
+- Target high-performing states such as Maharashtra, Karnataka, and Uttar Pradesh.
+- Increase promotions, advertisements, and discount offers on major platforms like Amazon, Flipkart, and Myntra to maximize revenue growth.
+
+---
+
 ## 👩‍💻 Author
 Kashish Rawat  
 Aspiring Data Analyst  
